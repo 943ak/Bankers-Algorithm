@@ -52,4 +52,5 @@ requests.
 make
 
 ### Run
+```bash
 ./P2
